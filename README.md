@@ -6,3 +6,5 @@ The following Jupyter Notebooks are provided for reproducing the experiments:
 - `model_evaluation.ipynb`: This notebook evaluates the forecasting performance on seen and unseen buildings.
 
 - `bertscore_evaluation.ipynb`: This notebook evaluates AI-generated energy-saving recommendations.
+
+- `optuna.ipynb`: This notebook performs hyperparameter optimization using Optuna.
