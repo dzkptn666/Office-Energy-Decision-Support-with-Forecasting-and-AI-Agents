@@ -1,1 +1,14 @@
-
+pandas
+numpy
+pyarrow
+scipy
+matplotlib
+torch
+lightning
+pytorch-forecasting
+tensorboard
+openai
+bert-score
+jupyter
+optuna
+scikit-learn
